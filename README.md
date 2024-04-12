@@ -63,7 +63,7 @@ Resize Ninja is a flexible Python tool developed with PyQt5, designed to provide
 - **Run the app using the below command:**
 
    ```bash
-   python run.py
+   python Resize-Ninja.py
    ```
 
 ## Features
