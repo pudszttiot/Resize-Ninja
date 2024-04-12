@@ -1,14 +1,14 @@
 <a name="top"></a>
 
 <p align="center">
-  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/githubreadmetemplate1.png">
+  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Resize-Ninja/main/Images/upscaled_image%20(1).png">
 </p>
 
 <h2 align="center">
 
 ---
 
-[PROJECT NAME HERE]
+Resize Ninja
 
 ---
 
@@ -29,16 +29,16 @@
 ## Screenshots
 
 <p align="center"> 
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-1" border="0">
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Resize-Ninja/main/Images/Screenshots/resizeninjaanimation.gif" alt="Screenshot-GIF-1" border="0">
   &nbsp;
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Resize-Ninja/main/Images/Screenshots/screenshot_2.png" alt="Screenshot-GIF-2" border="0">
   </p>
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pudszttiot/Folder-Templates.git
+   git clone https://github.com/pudszttiot/Resize-Ninja.git
    ```
 
 2. **Install dependencies:**
@@ -53,7 +53,7 @@
 
 <h3 align="center">
 
-[![Download ReqBuilder](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/reqbuilder/files/latest/download)
+[![Download Resize-Ninja](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/resize-ninja/files/latest/download)
 
 </h3>
 
@@ -72,7 +72,7 @@
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/Folder-Templates).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/Resize-Ninja).
 
 ## Contact
 
