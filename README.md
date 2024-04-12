@@ -24,7 +24,7 @@ Resize Ninja
 
 ## Description
 
-[Provide a brief overview of what your project is about. Include its purpose, main features, and any relevant information.]
+Resize Ninja is a flexible Python tool developed with PyQt5, designed to provide a user-friendly interface for adjusting image sizes and formats. Whether you need to create cover art for an album, wallpaper for your desktop, icons, or just need to simply adjust images to fit specific dimensions, Resize Ninja simplifies the process with its user-friendly features.
 
 ## Screenshots
 
