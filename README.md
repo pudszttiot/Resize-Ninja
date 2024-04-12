@@ -68,7 +68,39 @@ Resize Ninja is a flexible Python tool developed with PyQt5, designed to provide
 
 ## Features
 
-[List the key features of your project. This section should highlight what sets your project apart and why users would want to use it.]
+<ins>**Image Resizing**:</ins>
+   - Resize images to predefined dimensions or custom dimensions specified by the user.
+   - Support for various output formats including PNG, GIF, ICO, and JPEG.
+
+<ins>**User-friendly Interface**:</ins>
+   - Intuitive GUI for easy navigation and interaction.
+   - Clear labeling and instructions for each step of the resizing process.
+   - Visually appealing design with custom fonts and color schemes.
+
+<ins>**Input Selection**:</ins>
+   - Ability to select one or multiple image files for resizing.
+   - Convenient file dialog for browsing and choosing images.
+
+<ins>**Output Management**:</ins>
+   - Selection of output folder for saving resized images.
+   - Customizable file naming and format options for saved images.
+
+<ins>**Predefined Dimensions**:</ins>
+   - Predefined options for common image dimensions such as album cover art, full HD, and icons.
+   - Customizable dimensions for specific resizing requirements.
+
+<ins>**Confirmation Dialog**:</ins>
+   - Confirmation prompt before initiating the resizing process to prevent accidental operations.
+   - Option to cancel resizing if required.
+
+<ins>**Progress Tracking**:</ins>
+   - Dynamic progress bar to track the status of image resizing.
+   - Visual feedback to indicate completion of the resizing process.
+
+   <ins>**Informational Dialogs**:</ins>
+   - "How To Use" dialog providing detailed instructions for using the application effectively.
+   - "About" dialog with version information and developer details.
+
 
 ## Contributing
 
